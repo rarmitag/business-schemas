@@ -2,7 +2,6 @@
 description: business-schemas readme
 ignore: true
 ---
-![Lifecycle](https://img.shields.io/badge/Lifecycle-Stable-97ca00)
 
 ## About
 
