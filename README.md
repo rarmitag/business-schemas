@@ -3,6 +3,8 @@ description: business-schemas readme
 ignore: true
 ---
 
+![Lifecycle](https://img.shields.io/badge/Lifecycle-Stable-97ca00)
+
 ## About
 
 This has the JSONSchema for the legal filings, as well as sample test data.
